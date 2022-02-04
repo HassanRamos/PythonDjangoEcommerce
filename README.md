@@ -50,12 +50,12 @@ $  source venv/bin/activate
 
 **3. Clone this project**
 ```
-$  git clone https://github.com/
+$  git clone https://github.com/HassanRamos/PythonDjangoEcommerce.git
 ```
 
 Then, Enter the project
 ```
-$  cd django-jewelry-shop
+$  cd PythonDjangoEcommerce
 ```
 
 **4. Install Requirements from 'requirements.txt'**
